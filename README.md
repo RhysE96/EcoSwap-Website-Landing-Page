@@ -4,8 +4,8 @@
 
 Here is a screencapture of the entire website in desktop view:
 
-![alt-text](https://github.com/RhysE96/EcoSwap-Website-Landing-Page/blob/main/EcoSwap%20Landing/Screenshots/desktop-screen-capture.png)
+![alt-text](https://github.com/RhysE96/EcoSwap-Website-Landing-Page/blob/main/Screenshots/desktop-screen-capture.png)
 
 Mobile view:
 
-![alt-text](https://github.com/RhysE96/EcoSwap-Website-Landing-Page/blob/main/EcoSwap%20Landing/Screenshots/mobile-view-screen-capture.png)
+![alt-text](https://github.com/RhysE96/EcoSwap-Website-Landing-Page/blob/main/Screenshots/mobile-view-screen-capture.png)
